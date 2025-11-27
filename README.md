@@ -20,3 +20,19 @@ It loads a custom dataset, splits it into chunks, embeds them, and retrieves rel
 - Console-based interactive chatbot
 
 ---
+
+---
+
+## ▶️ Run the Chatbot
+
+pip install -r requirements.txt
+python src/rag_chatbot.py
+
+
+---
+
+## 🔑 .env Format
+
+GEMINI_API_KEY=your_api_key_here
+
+---
